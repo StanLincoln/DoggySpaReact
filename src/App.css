@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Cormorant', serif;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  color: #4C4C4B;
+}
+
+a {
+  color: #4C4C4B;
+  text-decoration: none;
+}
+
+nav ul li {
+  list-style: none;
+}

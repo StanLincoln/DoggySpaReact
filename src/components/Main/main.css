@@ -1,0 +1,44 @@
+.main {
+    background: url('./../../img/dog.jpg');
+    background-size: cover;
+    height: 786px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    position: relative;
+}
+
+.main__left {
+    max-width: 579px;
+    position: absolute;
+    top: 163px;
+    left: 18px;
+}
+
+.main__left h1 {
+    font-size: 70px;
+    margin-bottom: 37px;
+}
+
+.main__left h2 {
+    font-size: 63px;
+    margin-bottom: 67px;
+}
+
+.main__btn {
+    border-radius: 30px;
+    background: #E89B93;
+    padding: 10px 16px;
+    color: #fff;
+    line-height: 1.05;
+    border: none;
+    font-family: Cormorant;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.main__btn:hover {
+    opacity: 0.8;
+}
